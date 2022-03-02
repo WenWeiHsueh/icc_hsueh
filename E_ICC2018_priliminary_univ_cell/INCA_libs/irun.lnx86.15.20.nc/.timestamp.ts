@@ -1,0 +1,7 @@
+1644929108 /home/WenWeiHsueh/icc_2022/E_ICC2018_priliminary_univ_cell/operation_point.v
+1645184002 /home/WenWeiHsueh/icc_2022/E_ICC2018_priliminary_univ_cell/LCD_CTRL.v
+1644929128 /home/WenWeiHsueh/icc_2022/E_ICC2018_priliminary_univ_cell/maxPool_2x2.v
+1644924295 /home/WenWeiHsueh/icc_2022/E_ICC2018_priliminary_univ_cell/testfixture.v
+1644929236 /home/WenWeiHsueh/icc_2022/E_ICC2018_priliminary_univ_cell/dp.v
+1644929116 /home/WenWeiHsueh/icc_2022/E_ICC2018_priliminary_univ_cell/ctrl.v
+1644929131 /home/WenWeiHsueh/icc_2022/E_ICC2018_priliminary_univ_cell/minPool_2x2.v

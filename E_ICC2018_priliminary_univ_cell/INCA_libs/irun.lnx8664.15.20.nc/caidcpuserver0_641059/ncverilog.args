@@ -1,0 +1,14 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
+testfixture.v
+LCD_CTRL.v
+ctrl.v
+dp.v
+maxPool_2x2.v
+minPool_2x2.v
+operation_point.v
++define+tb1
++access+r
++nc64bit
